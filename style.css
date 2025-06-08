@@ -1,0 +1,20 @@
+/* Streamlit Style Override */
+body {
+    background-color: #f0f2f6;
+}
+
+h1 {
+    color: #0d3b66;
+    font-weight: bold;
+}
+
+.sidebar .sidebar-content {
+    background-color: #e6f0ff;
+}
+
+.css-1d391kg {
+    background-color: #ffffff;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
